@@ -1,2 +1,2 @@
 # Generic-external-license
-TacoByte License for software outside of the TacoByte teams repository but still part.
+The TacoByte Generic Open-Source software license for the software that wishes to be part of the TacoByte community but not directly in official repositories.
